@@ -3,3 +3,4 @@
 
 ### 2. Create App
 > django-admin startapp [app_name]
+> python manage.py startapp [app_name]
