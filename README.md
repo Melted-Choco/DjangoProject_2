@@ -2,5 +2,5 @@
 > python manage.py runserver [port]
 
 ### 2. Create App
-> django-admin startapp [app_name]
+> django-admin startapp [app_name]  
 > python manage.py startapp [app_name]
